@@ -33,8 +33,8 @@ footer-links-active:
   stackoverflow: false
 
 url-pretty: "NovSec.net"
-#disqus: ""
-google_analytics: "UA-2437900-4"
+disqus: "novtangopapa"
+google_analytics: "UA-118589820-1"
 
 timezone: "America/Vancouver"
 markdown: kramdown
