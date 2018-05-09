@@ -4,9 +4,7 @@ title: Resume
 subtitle: Looking for a foot in the door
 ---
 
-I am currently working in a help-desk position for a municipal government.  
-I am seeking employment which will further my knowledge and experience
-in infosec.
+I am currently working in a helpdesk position for a municipal government, and am seeking employment which will further my knowledge and experience in information security.
 
 
 ### Certifications
