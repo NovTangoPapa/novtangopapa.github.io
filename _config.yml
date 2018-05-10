@@ -34,7 +34,7 @@ footer-links-active:
 
 url-pretty: "NovSec.net"
 disqus: "novtangopapa"
-google_analytics: "UA-118589820-1"
+#google_analytics: "UA-118589820-1"
 
 timezone: "America/Vancouver"
 markdown: kramdown
