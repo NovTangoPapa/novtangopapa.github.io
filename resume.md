@@ -4,7 +4,7 @@ title: Resume
 subtitle: Looking for a foot in the door
 ---
 
-I am currently working in a helpdesk position for a municipal government, and am seeking employment which will further my knowledge and experience in information security.
+I am currently working as an Endpoint Technician at a San Francisco based tech company, and I am seeking employment to gain further knowledge in information security.  I am teachable, and eager to learn new skills.
 
 
 ### Certifications
@@ -13,8 +13,6 @@ I am currently working in a helpdesk position for a municipal government, and am
  - Network+
  - Security+
  - Linux+
-
-Currently working towards my CCNA.
 
 ### Education
 
@@ -30,8 +28,12 @@ Pertinent course work: Computer Science/Psychology
 
  - Linux, Windows, MacOS, Android, and iOS.
  - TCP/IP
+ - Powershell/Windows Command Shell
+ - BASH
  - Active Directory
- - Batch scripting, & Python.
+ - Compliance and Remediation of Endpoints
+ - Absolute
+ - ServiceNow
  - Reading/Understanding/Editing Scripts(of various different languages).
  - OSINT
  - Social Engineering
@@ -45,6 +47,5 @@ Pertinent course work: Computer Science/Psychology
  - Wireshark
  - Splunk
  - OS Hardening
- - Advanced scripting
  - Red/Blue Teaming
  - System administration
