@@ -16,9 +16,9 @@ I am currently working as an Endpoint Technician at a San Francisco based tech c
 
 ### Education
 
-Bachelor of Science, IT security
+Bachelor of Science, Cybersecurity and Information Assurance
  - Western Governors University
- - Prospective graduation 2019
+ - Prospective graduation 2020
 
 Pertinent course work: Computer Science/Psychology
  - Diablo Valley College
@@ -31,21 +31,12 @@ Pertinent course work: Computer Science/Psychology
  - Powershell/Windows Command Shell
  - BASH
  - Active Directory
+ - o365, Box, and Okta Administration
+ - Splunk
  - Compliance and Remediation of Endpoints
  - Absolute
  - ServiceNow
- - Reading/Understanding/Editing Scripts(of various different languages).
  - OSINT
  - Social Engineering
- - Malware detection, and removal.
- - Quick to pick up any necessary skills.
-
-### Skills I am looking to develop
-
- - Web App security testing
- - Kali Linux
- - Wireshark
- - Splunk
- - OS Hardening
- - Red/Blue Teaming
- - System administration
+ - Malware Detection via Enterprise Console
+ - Static Malware Analysis
