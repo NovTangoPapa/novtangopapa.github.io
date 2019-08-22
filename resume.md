@@ -13,6 +13,7 @@ I am currently working as an Endpoint Technician at a San Francisco based tech c
  - Network+
  - Security+
  - Linux+
+ - ITILv3 Foundations
 
 ### Education
 
@@ -30,12 +31,14 @@ Pertinent course work: Computer Science/Psychology
  - TCP/IP
  - Powershell/Windows Command Shell
  - BASH
+ - Python
  - Active Directory
  - o365, Box, and Okta Administration
- - Splunk
+ - Splunk/Elastic Stack
  - Compliance and Remediation of Endpoints
  - Absolute
  - ServiceNow
+ -	Various scanning and pentesting tools(Nmap, Burp Suite, nikto, netcat, and Metasploit)
  - OSINT
  - Social Engineering
  - Malware Detection via Enterprise Console
