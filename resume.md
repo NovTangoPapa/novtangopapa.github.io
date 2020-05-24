@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Resume
-subtitle: Looking for a foot in the door
+subtitle: SSBhbSBub3QgY3VycmVudGx5IGxvb2tpbmc=
 ---
 
-I am currently working as an Endpoint Technician at a San Francisco based tech company, and I am seeking employment to gain further knowledge in information security.  I am teachable, and eager to learn new skills.
-
+I am currently working as an Information Security Engineer in the bay area at an Edtech company.
 
 ### Certifications
 
- - A+
  - Network+
  - Security+
  - Linux+
@@ -32,11 +30,13 @@ Pertinent course work: Computer Science/Psychology
  - Powershell/Windows Command Shell
  - BASH
  - Python
+ - SQL
  - Active Directory
+ - AWS/Azure
  - o365, Box, and Okta Administration
  - Splunk/Elastic Stack
- - Compliance and Remediation of Endpoints
  - Absolute
+ - Tenable io/sc/nessus
  - ServiceNow
  -	Various scanning and pentesting tools(Nmap, Burp Suite, nikto, netcat, and Metasploit)
  - OSINT
